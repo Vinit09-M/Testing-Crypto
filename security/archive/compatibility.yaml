@@ -4,3 +4,5 @@ legacy_cipher: RC4
 legacy_checksum: MD5
 replacement_payload_cipher: AES-256-GCM
 replacement_key_establishment: ML-KEM-768
+proposed_replacement_key_wrapping: ML-KEM-768 + X25519
+legacy_formats_allowed_for_new_writes: false
