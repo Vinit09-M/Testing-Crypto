@@ -1,0 +1,13 @@
+{
+  "header": {
+    "format": "CipherSetu",
+    "version": 1,
+    "id": "F4f4j2SVgeVrrI7K61M6YA==",
+    "cipher": "AES-256-GCM"
+  },
+  "nonce": "5RaBz+ITBSREh+zK",
+  "ciphertext": "YFPAvXzx/UnElRhGoEYNkiVUdV5MkosWqxwMeT/z/MzPCrXBG+I39cUkLHwRcT1LJ3MeWcICb6BJXUrz6dU=",
+  "suite": "RSA-3072-OAEP-SHA256",
+  "recipient": "7ed2e8f7bf9b1e02237257ee0306d35f58149178ff59521b570aea9619f17893",
+  "wrapped_key": "buSI//GS26puDwFr+4wbtprqcOa7v+ds18Wwc1skgsAg4ir+oX2M+0NtnrRduJrR2J0gwKs6dJ5jpiXr94GCVyNUDdzWdNnoTcVdhJ9Nd4CCnHPzDFnZzAx720VQoN6LQ2+iBz5WXJ/6vAfWJgSDnxMWXl3J47jfkYEewfJfBEiDyKS7eiX86oz6sxYGiRVRrSsGhKEnZkpDd+uHbD/xob7ZAyo9jHjmlsz2KzP9mfX6w40Fsncdy1cbEwPLLyzzlTiY0JrtNBL2gaY7xlMEVajDAXdGfsh+IqnpXqpF7j3xxYuHrBEfJXrWbQJmujqDZ2i8h6oxIbuX2GnfyzSPWabaEXiMBf3P4QtuCkx8G6wiSG0XyVUZEX124WFWesj46/8F158omTRO7XsyVRRIZR5x9obQXmN3Btr82qgi+l7XxDJ/mWSjYfJ5EwEEv2naqkeSRc3xeH4KGH20FwVgqROsF5ep5EuyQWFoIiiTE6jN+E67Lg+rwacaboKSkeTU"
+}

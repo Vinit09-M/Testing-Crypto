@@ -1,0 +1,5 @@
+dataset: synthetic-month-end-statements
+owner: ledger-operations
+confidentiality_years: 10
+payload_cipher: AES-256-GCM
+legacy_key_wrapping: RSA-3072-OAEP-SHA256

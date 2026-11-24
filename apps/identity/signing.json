@@ -1,0 +1,8 @@
+{
+  "owner": "Identity Engineering",
+  "purpose": "Sign internal service assertions",
+  "algorithm": "RSA",
+  "jwt_algorithm": "RS256",
+  "key_bits": 2048,
+  "key_ref": "fixture://identity/assertion-signing"
+}

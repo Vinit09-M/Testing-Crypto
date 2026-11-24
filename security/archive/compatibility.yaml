@@ -1,0 +1,6 @@
+owner: records-engineering
+purpose: inventory of retired formats awaiting removal
+legacy_cipher: RC4
+legacy_checksum: MD5
+replacement_payload_cipher: AES-256-GCM
+replacement_key_establishment: ML-KEM-768

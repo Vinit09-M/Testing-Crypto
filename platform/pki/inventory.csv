@@ -1,0 +1,4 @@
+asset,owner,algorithm,key_bits,purpose
+fixture-root,platform-pki,RSA,4096,certificate signing
+fixture-export,records-team,RSA,3072,export-key wrapping
+fixture-partner,partner-integrations,RSA,2048,manifest verification

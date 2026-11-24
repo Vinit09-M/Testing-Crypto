@@ -1,0 +1,9 @@
+owner: ingress-platform
+purpose: certificate authentication and transport negotiation
+certificate:
+  key_algorithm: RSA
+  key_size: 2048
+  secret_ref: fixture://edge/tls
+transport:
+  minimum_version: "1.3"
+  preferred_key_exchange: X25519
